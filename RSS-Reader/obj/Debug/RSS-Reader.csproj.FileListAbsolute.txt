@@ -1,0 +1,9 @@
+D:\Programming\SPP\RSS-Reader\RSS-Reader\bin\Debug\RSS-Reader.exe.config
+D:\Programming\SPP\RSS-Reader\RSS-Reader\bin\Debug\RSS-Reader.exe
+D:\Programming\SPP\RSS-Reader\RSS-Reader\bin\Debug\RSS-Reader.pdb
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS-Reader.csprojResolveAssemblyReference.cache
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS_Reader.Form1.resources
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS_Reader.Properties.Resources.resources
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS-Reader.csproj.GenerateResource.Cache
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS-Reader.exe
+D:\Programming\SPP\RSS-Reader\RSS-Reader\obj\Debug\RSS-Reader.pdb
